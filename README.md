@@ -33,3 +33,12 @@ The project and this GitHub page is still under work.
     <td><img src="/docs/pictures/3D_Model_controller_dismantled.png" width=75% height=75%></td>
   </tr>
 </table>
+
+## Contributions and Acknowledgements
+Thanks to the following people for helping this project to be a reality!
+
+[Emmanuel Feru](https://github.com/EFeru) for this amazing firmware.
+
+[Talia Calavera](https://github.com/Zitrino) for the idea, design and prototype of the wheelchair MW-13.
+
+[Kshmire](https://github.com/Kshmire) for the electrical engineering and software development.
