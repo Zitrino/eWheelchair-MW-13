@@ -12,4 +12,24 @@ The arduino code included as example has been updated to include rudimentary cod
 
 The project and this GitHub page is still under work.
  
-![mainboard_pinout](/docs/pictures/mainboard_pinout.png)
+ <table>
+  <tr>
+    <td><img src="/docs/pictures/Wheelchair_look.jpg" width=50% height=50%></td>
+    <td><img src="/docs/pictures/Wheelchair_behind_look.jpg" width=75% height=75%></td>
+    <td><img src="/docs/pictures/Wheelchair_high_look.jpg" width=50% height=50%></td>
+  </tr>
+  <tr>
+    <td><img src="/docs/pictures/Wheelchair_controller_closeup.jpg" width=50% height=50%></td>
+    <td><img src="/docs/pictures/Wheelchair_behind_box.jpg" width=75% height=75%></td>
+    <td><img src="/docs/pictures/Wheelchair_box_right_side_closeup.jpg" width=75% height=75%></td>
+  </tr>
+  <tr>
+    <td><img src="/docs/pictures/3D_Model_BLDC_motor_wheel_fixing.png" width=100% height=100%></td>
+    <td><img src="/docs/pictures/3D_Model_box.png" width=75% height=75%></td>
+    <td><img src="/docs/pictures/3D_Model_box_dismantled.png" width=75% height=75%></td>
+  </tr>
+ <tr>
+    <td><img src="/docs/pictures/3D_Model_controller.png" width=75% height=75%></td>
+    <td><img src="/docs/pictures/3D_Model_controller_dismantled.png" width=75% height=75%></td>
+  </tr>
+</table>
